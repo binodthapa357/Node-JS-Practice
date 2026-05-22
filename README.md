@@ -26,3 +26,18 @@
 - Callbacks/ Promises/ Async-wait
 
 ========================================
+
+## Express.js
+- It is Node.js API/backend framework.
+- Used to build API (Application Program Interface)
+- It simplifies http module of node.js
+- Fast, unopinionated, minimalist web framework for Node.js
+
+## API format
+-API format: JSON (JavaScript Object Notation)
+- REST API (Representational state transfer)
+
+
+======================================
+- HTTP Methods: 
+- Postman
