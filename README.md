@@ -28,16 +28,32 @@
 ========================================
 
 ## Express.js
+
 - It is Node.js API/backend framework.
 - Used to build API (Application Program Interface)
 - It simplifies http module of node.js
 - Fast, unopinionated, minimalist web framework for Node.js
 
 ## API format
+
 -API format: JSON (JavaScript Object Notation)
+
 - REST API (Representational state transfer)
 
+## JSON
 
+- JS object => JSON.stringify() => JSON
+- JSON => JSON.parse() => JS Object
+
+## HTTP Methods
+
+1. GET - Data Read or Data Fetch
+2. POST - Create 
+3. PUT - Update
+4. DELETE - Delete
+5. PATCH - Partial Update
 ======================================
-- HTTP Methods: 
+
+- HTTP Methods
+- layered Architecture
 - Postman
